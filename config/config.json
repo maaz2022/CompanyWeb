@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "Nextjs Blog with Tailwind CSS",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "Nextjs Blog with Tailwind CSS"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "copyright": "Designed & Developed By [Maaz](https://github.com/maaz2022)"
+  },
+
+  "contact_info": {
+    "phone": "+12 345 678 901",
+    "email": "maaznazeer098@gmail.com",
+    "location": "dummy location"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Download Now",
+    "link": "https://github.com/maaz2022"
+  },
+
+  "metadata": {
+    "meta_author": "Maaz",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Nextjs Blog with Tailwind CSS"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get Nextjs Blog with Tailwind CSS Now",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
+    "button": {
+      "label": "Download The Theme",
+      "link": "https://github.com/maaz2022"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "maaz-template",
+    "settings": {}
+  }
+}
